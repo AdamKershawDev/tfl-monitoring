@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "lh_tfl_monitoring_bronze"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a1c416f1-75a2-aaed-40c1-e7b7ef6076c4"
+  }
+}
